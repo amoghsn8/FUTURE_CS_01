@@ -10,7 +10,7 @@ The objective of this task was to identify potential security weaknesses through
 
 
 
-**Target Website:**
+## Target Website:
 
 http://testphp.vulnweb.com
 
@@ -20,7 +20,7 @@ This website is intentionally vulnerable and commonly used for security training
 
 
 
-**Assessment Scope:**
+## Assessment Scope:
 
 
 
@@ -50,7 +50,7 @@ The following activities were intentionally excluded:
 
 
 
-**Tools Used:**
+## Tools Used:
 
 
 
@@ -65,7 +65,7 @@ The assessment was conducted using the following security tools:
 
 
 
-**Key Security Findings:**
+## Key Security Findings:
 
 
 
@@ -86,7 +86,7 @@ These issues primarily relate to security misconfigurations and information disc
 
 
 
-**Disclaimer:**
+## Disclaimer:
 
 
 
@@ -94,3 +94,7 @@ This assessment was conducted strictly for educational and training purposes as 
 
 All testing was performed using passive, non-intrusive techniques without exploiting vulnerabilities.
 
+
+## Author:
+
+SN Amogh
